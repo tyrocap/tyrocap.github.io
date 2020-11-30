@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(252, 247, 247, 1);
+    font-family: 'Amiri', serif;
+}
+
+body {
+    max-width: 900px;
+    margin: auto;
+}
+
+.site-title {
+    text-align: center;
+}
