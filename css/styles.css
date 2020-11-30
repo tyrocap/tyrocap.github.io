@@ -1,9 +1,10 @@
-* {
+*:not(pre code) {
     margin: 0;
     padding: 0;
     background-color: rgba(252, 247, 247, 1);
     font-family: 'Amiri', serif;
 }
+
 
 body {
     max-width: 900px;
@@ -12,4 +13,16 @@ body {
 
 .site-title {
     text-align: center;
+}
+
+
+.blogPost {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px rgba(0,3,0,0.6);
+    -moz-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    -o-box-shadow: 0 0 10px rgba(0,0,0,0.6);
+
 }
