@@ -8,49 +8,50 @@
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
 
-  <link rel="stylesheet" href="css/styles.css">
-  <link href="css/prism.css" rel="stylesheet" />
-  <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Amiri&display=swap" rel="stylesheet">
+  <style>
+      * {
+        margin: 0;
+        padding: 0;
+        background-color: rgba(252, 247, 247, 1);
+        font-family: 'Amiri', serif;
+      }
+      li {
+          list-style-position: inside;
+          font-size: 18px;
+      }
+      a {
+        font-size: 18px;
+      }
+      p {
+        font-size: 18px;
+      }
+  </style>
+
 
   <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
   <![endif]-->
 </head>
 
-<body>
+<body style="padding: 20px">
+    <!-- Header section -->
     <h1 class="site-title">Adam Soliev</h1>
-    <a href="book_review_pages/code_complete.html">'Code Complete' by Steve McConnell</a>
-    <div class="blogPost">
-        <h2 class="blogPostTitle">'The Bitcoin Standard' by Saifedean Ammous</h2>
-        <p class="blogPostBody">In the early 1970s, an ounce of gold was ~$30. Today, the figure is in the $1280s.
-            What this means is that in the past 50 years, the value of gold is increased ~40X. Sure, no big deal, right?.
-            After all, everything one can think of has had the similar story in its price journey over the past five decades. 
-            Except, if we change our perspective a bit and think about any good in terms of its value instead of its price, things
-            start to get really interesting. So coming back to the gold and its price, what if we look at the problem from the dollar's 
-            perspective - that is, instead of the value of an ounce of gold increasing ~40X, what if we say that the value of dollar
-            decreased ~1/40X. This realization might seem an obvious observation for some, but for me, it is one of those 'aha' moments
-            that the first few pages of the selected reading materials provide. And the book is one of those.   
-        </p>
-        <p>
-            
-        </p>
-        <p>Published: 11/30/2020, 2:43AM.</p>
-    </div>
-    <div class="blogPost">
-        <h2 class="blogPostTitle">What is Lorem Ipsum?</h2>
-        <img src="images/abs.jpg" alt="HTML5 Icon" style="max-width:800px; max-height: 800px"/>
-        <p class="blogPostBody">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to 
-            make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, 
-            remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing 
-            Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions 
-            of Lorem Ipsum.
-        </p>
-        <p>Published: 11/30/2020, 2:43AM.</p>
-    </div>
+    <hr>
+
+    <!-- Book Review section -->
+    <ul>
+      <h2>Book Reviews</h2>
+      <li>
+        <a href="book_review_pages/code_complete.html">'Code Complete' by Steve McConnell</a>
+      </li>
+      <li>
+        <a href="book_review_pages/bitcoin_standard.html">'The Bitcoin Standard' Saifedean Ammous</a>
+      </li>
+    </ul>
+
+    <!-- General section -->
 
   <script src="js/scripts.js"></script>
-  <script src="js/prism.js"></script>
 </body>
 </html>
