@@ -1,0 +1,43 @@
+
+Today was also an interesting day because it was my first taske of what the
+real - or more clearly, professional - world looks like. I must say it is ok,
+at least for now. It is also possible that my perception of it is a bit biased
+because today I couldn't figure out a seemingly trivial thing at work - running
+the git repo on an IDE on Mac. It sounds silly but I tried and I am no joke
+when it comes to computers and stuff. Right at this moment I feel empty, I
+don't know why - maybe it is bc it feels like I didn't do much today and didn't
+achieve much. But as each day passes, I am starting to realize that a person
+should not only focus on winning but on accepting the failure sometimes because
+it is impossible to be a winner all the time and when you do lose, you should
+do so graciously because tomorrow is a new day and new opportunity and you have
+to stay alive. I also thought about recording the challenges that I encounter
+during my internship and write sometime at the end so that next interns will
+have something to make their life a bit easier; it is an interesting idea. It
+is also interesting to observe that I sometimes feel uneasy when an air
+conditioner is on in my room - it is as if, someone will walk in and tell me
+that I should stop this nonsense and start paying for some of this stuff. 
+
+
+Just another thing that I thought about the other day while reading 'Finite and
+Infite Games' is root-cause analysis and breaking things down by abstracting
+thing and understanding piece by piece. I mean obviously this sounds super
+obvious thing - but for some reason it made so much sense to me at that moment.
+Like if you are trying to analyze your addiction to something (in my case, it
+would probably be porn) you want to think about it piece by piece. Porn
+
+
+I think I found why I was feeling bad today - I couldn't do my job because it
+is depended on other people. I was given Intellij Community as an IDE at work.
+The problem with that is it is free version which means it does not have
+support for some important stuff needed at work. In my case, the free version
+didn't have support for Spring Boot framework and because of that I struggled
+whole day trying to get an application to run on my IDE. I do not like this
+feeling and I do not want to feel this again. It not only takes me emotionally
+down but leads me productively ashtray. I think that is why people like Warren
+Buffett treasure their independence so much, because in a way it is a
+superpower. People who depend on others will always advance at the lowest
+common denominator pace.
+
+
+
+
